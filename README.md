@@ -1,4 +1,4 @@
-My Awesome Book
+Swift: El lenguage de programación
 =======
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Aún no he terminado de leer el libro, así que por que no, leerlo y traducirlo a la vez :)
